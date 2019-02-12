@@ -1,5 +1,5 @@
 {
-    "name": "sref/php-phantomjs",
+    "name": "dario-cabral/php-phantomjs",
     "description": "A PHP wrapper for loading pages through PhantomJS",
     "keywords": ["PhantomJS", "Testing", "Headless Browser"],
 	"type": "library",
